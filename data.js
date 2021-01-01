@@ -23,6 +23,11 @@ const data = [
         name: "Missoula",
         population: 82157,
         landArea: 117
+    },
+    {
+        name: "Edirne",
+        population: 411528,
+        landArea: 2222
     }
 ];
 
